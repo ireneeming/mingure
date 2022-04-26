@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mingure/static/css/main.073c9b0a.css",
+    "main.js": "/mingure/static/js/main.acb68eda.js",
+    "static/js/787.0b78df29.chunk.js": "/mingure/static/js/787.0b78df29.chunk.js",
+    "index.html": "/mingure/index.html",
+    "main.073c9b0a.css.map": "/mingure/static/css/main.073c9b0a.css.map",
+    "main.acb68eda.js.map": "/mingure/static/js/main.acb68eda.js.map",
+    "787.0b78df29.chunk.js.map": "/mingure/static/js/787.0b78df29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.acb68eda.js"
+  ]
+}
